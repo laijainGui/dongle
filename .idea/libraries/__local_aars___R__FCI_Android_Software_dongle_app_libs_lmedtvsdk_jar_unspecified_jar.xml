@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:R.\FCI\Android-Software\dongle\app\libs\lmedtvsdk.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/lmedtvsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
